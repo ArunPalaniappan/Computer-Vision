@@ -1,4 +1,4 @@
-# ML_CV Preojects
+# ML_CV Projects
 
 CV projects
 
