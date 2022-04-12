@@ -1,4 +1,4 @@
-# ML_CV Projects
+# Computer Vision Projects
 
-CV projects
+Mainly OpenCV
 
